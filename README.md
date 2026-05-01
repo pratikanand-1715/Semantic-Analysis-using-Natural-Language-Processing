@@ -1,9 +1,10 @@
 # Semantic Analysis using NLP: Sentiment & Text Summarization
 
 ## Project Team
-* **Pratik Anand** | SBU ID: [Your SBU ID]
-* **[Team Member 2 Name]** | SBU ID: [Their SBU ID]
-* **[Team Member 3 Name]** | SBU ID: [Their SBU ID]
+* **Pratik Anand** | SBU ID: SBU220580
+* **Satyam Kumar Jaiswal** | SBU ID: SBU220156
+* **Sonu Kumar** | SBU ID: SBU220388
+* **Yash Pandey** | SBU ID: SBU220542
 
 ## Project Overview
 This application is a dual-purpose Natural Language Processing tool built with Python and Streamlit. It allows users to input text and receive two distinct analyses:
